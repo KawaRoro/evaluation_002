@@ -1,0 +1,88 @@
+
+* {
+	font-family: 'Arial', serif;
+}
+body {
+	margin: 0;
+	padding-top: 90px;
+}
+
+.middle{
+	display: block;
+	position: relative;
+	text-align:center;
+	width: 90%;
+	margin: 0 auto;
+}
+
+/* grey_and_blue */
+.grey_and_blue {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 500px;
+    padding: 25px 15px 25px 10px;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+	border:1px solid #E4E4E4;
+	text-align: left;
+}
+.grey_and_blue h1 {
+    font-size: 25px;
+    padding: 0px 0px 10px 40px;
+    display: block;
+    border-bottom:1px solid #E4E4E4;
+    margin: -10px -15px 30px -10px;;
+    color: #888;
+}
+.grey_and_blue h1>span {
+    display: block;
+    font-size: 11px;
+}
+.basic-grey label {
+    display: block;
+    margin: 0px;
+}
+.grey_and_blue label>span {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+    color: #888;
+}
+.grey_and_blue input[type="text"], .grey_and_blue input[type="password"] {
+    border: 1px solid #DADADA;
+    color: #888;
+    height: 30px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 70%;
+    font-size: 12px;
+    line-height:15px;
+}
+
+.grey_and_blue .button {
+    background: #66BBFF;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: #FFF;
+    border-radius: 5px;
+	cursor: pointer;
+	font-weight: bold;
+}
+.grey_and_blue .button:hover {
+    background: #66BBFF
+}
+
+hr {
+	border: 1px solid #66BBFF;
+	opacity: 0.2;
+	width: 95%;
+}
+
+div.group {
+    border:1px solid #E4E4E4;
+}

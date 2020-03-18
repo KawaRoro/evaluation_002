@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Formulaire</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <div class="middle">
+        <form action="" method="post" class="grey_and_blue">
+            <h4>Sign in</h4>
+            <hr/>
+            <label for="name">User Name : <br></label>
+            <input id="name" type="text" name="name" placeholder="Your User Name" />
+            
+            <span>&nbsp;<br></span>
+
+            <label for="password">Password : <br></label>
+            <input id="password" type="password" name="password" placeholder="Your Password" />
+
+            <span>&nbsp;<br></span>
+            <label for="group">Group :</label> <br>
+            <div class="group">
+                <input type="radio" name="group" value="abcdev" id="abcdev" checked="checked" />
+                <label for="abcdev">ABC DEV</label><br>
+                <input type="radio" name="group" value="dwwm" id="dwwm" />
+                <label for="dwwm">DWWM</label><br>
+                <input type="radio" name="group" value="cda" id="cda" />
+                <label for="cda">CDA</label><br>
+            </div>
+            <br>
+            <label>
+                <input type="button" class="button" value="SIGN IN" />
+                <br>
+                <a href="">Forgot password ?</a>
+            </label>
+            <span>&nbsp;<br><br></span>
+            <label>
+                <h4>New User</h4>
+                <hr/>
+                <input type="button" class="button" value="SIGN UP" /><br>
+            </label>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+
+* {
+	font-family: 'Arial', serif;
+}
+body {
+	margin: 0;
+	padding-top: 90px;
+}
+
+.middle{
+	display: block;
+	position: relative;
+	text-align:center;
+	width: 90%;
+	margin: 0 auto;
+}
+
+ul.header {
+	font-weight: bold;
+	background-color:grey;
+}
+
+ul.body {
+	background-color:lightgrey;
+}
+
+ul {
+	list-style-type: none;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin:0px;
+}
+
+li {
+	display: table-cell;
+	width: 50%;
+	text-align:right;
+}
+
+li.header {
+	text-align:left;
+}

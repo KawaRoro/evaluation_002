@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<système_solaire>
+
+  <!-- Mercure -->
+  <planète>
+    <nom>Mercure</nom>
+    <caractéristiques>
+      <diamètre valeur="km">4878</diamètre>
+      <circonférence valeur="km">15324.69</circonférence>
+      <distance_moy_soleil valeur="mkm">57.8</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">91.8</distance_moy_terre>
+      <satellites>0</satellites>
+      <température_moyenne valeur="C">167</température_moyenne>
+      <masse valeur="kg">0.33</masse>
+      <période_de_révolution valeur="an">0.24</période_de_révolution>
+      <rotation_sur_son_axe>58j 15h 38min</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">47.78</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">3.78</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">5.42</masse_volumique>
+      <volume valeur="1011km3">0.6077486604</volume>
+    </caractéristiques>
+  </planète>
+
+  <!-- Vénus -->
+  <planète>
+    <nom>Vénus</nom>
+    <caractéristiques>
+      <diamètre valeur="km">12104</diamètre>
+      <circonférence valeur="km">38019.55</circonférence>
+      <distance_moy_soleil valeur="mkm">108.2</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">41.4</distance_moy_terre>
+      <satellites>0</satellites>
+      <température_moyenne valeur="C">465</température_moyenne>
+      <masse valeur="kg">4.87</masse>
+      <période_de_révolution valeur="an">0.615</période_de_révolution>
+      <rotation_sur_son_axe>243j</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">35.02</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">8.6</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">5.24</masse_volumique>
+      <volume valeur="1011km3">9.280472071</volume>
+    </caractéristiques>
+  </planète>
+
+  <!-- Terre -->
+  <planète>
+    <nom>Terre</nom>
+    <caractéristiques>
+      <diamètre valeur="km">12756</diamètre>
+      <circonférence valeur="km">40024</circonférence>
+      <distance_moy_soleil valeur="mkm">149.6</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">0</distance_moy_terre>
+      <satellites>1</satellites>
+      <température_moyenne valeur="C">15</température_moyenne>
+      <masse valeur="kg">5.9736</masse>
+      <période_de_révolution valeur="an">1</période_de_révolution>
+      <rotation_sur_son_axe>23 h 56 min 4 s</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">29.78</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">9.81</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">5.45</masse_volumique>
+      <volume valeur="1011km3">10.8321</volume>
+    </caractéristiques>
+  </planète>
+
+  <!-- Mars -->
+  <planète>
+    <nom>Mars</nom>
+    <caractéristiques>
+      <diamètre valeur="km">6794</diamètre>
+      <circonférence valeur="km">21318.84</circonférence>
+      <distance_moy_soleil valeur="mkm">227.9</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">77.9</distance_moy_terre>
+      <satellites>2</satellites>
+      <température_moyenne valeur="C">-65</température_moyenne>
+      <masse valeur="kg">0.642</masse>
+      <période_de_révolution valeur="an">1.88</période_de_révolution>
+      <rotation_sur_son_axe>24 h 37 min 23 s</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">24.11</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">3.72</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">3.93</masse_volumique>
+      <volume valeur="1011km3">1.636214316</volume>
+    </caractéristiques>
+  </planète>
+
+  <!-- Jupiter -->
+  <planète>
+    <nom>Jupiter</nom>
+    <caractéristiques>
+      <diamètre valeur="km">142984</diamètre>
+      <circonférence valeur="km">378675.01</circonférence>
+      <distance_moy_soleil valeur="mkm">778.6</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">628.7</distance_moy_terre>
+      <satellites>63</satellites>
+      <température_moyenne valeur="C">-54</température_moyenne>
+      <masse valeur="kg">1899</masse>
+      <période_de_révolution valeur="an">11.86</période_de_révolution>
+      <rotation_sur_son_axe>9 h 50 min</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">13.07</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">24.892</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">1.32</masse_volumique>
+      <volume valeur="1011km3">15305.97</volume>
+    </caractéristiques>
+  </planète>
+
+    <!-- Saturne -->
+  <planète>
+    <nom>Saturne</nom>
+    <caractéristiques>
+      <diamètre valeur="km">120536</diamètre>
+      <circonférence valeur="km">378675.01</circonférence>
+      <distance_moy_soleil valeur="mkm">1433.50</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">1280.40</distance_moy_terre>
+      <satellites>47</satellites>
+      <température_moyenne valeur="C">-150</température_moyenne>
+      <masse valeur="kg">568</masse>
+      <période_de_révolution valeur="an">29.46</période_de_révolution>
+      <rotation_sur_son_axe>11.5 h</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">9.66</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">10.584</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">0.68</masse_volumique>
+      <volume valeur="1011km3">9169.57</volume>
+    </caractéristiques>
+  </planète>
+
+    <!-- Uranus -->
+  <planète>
+    <nom>Uranus</nom>
+    <caractéristiques>
+      <diamètre valeur="km">51118</diamètre>
+      <circonférence valeur="km">160591.933</circonférence>
+      <distance_moy_soleil valeur="mkm">2872.5</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">2725.4</distance_moy_terre>
+      <satellites>27</satellites>
+      <température_moyenne valeur="C">-210</température_moyenne>
+      <masse valeur="kg">86.8</masse>
+      <période_de_révolution valeur="an">84</période_de_révolution>
+      <rotation_sur_son_axe>17 h 24 min</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">6.81</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">8.624</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">1.27</masse_volumique>
+      <volume valeur="1011km3">699.39123</volume>
+    </caractéristiques>
+  </planète>
+
+    <!-- Neptune -->
+  <planète>
+    <nom>Neptune</nom>
+    <caractéristiques>
+      <diamètre valeur="km">49528</diamètre>
+      <circonférence valeur="km">155596.80</circonférence>
+      <distance_moy_soleil valeur="mkm">4495.10</distance_moy_soleil>
+      <distance_moy_terre valeur="mkm">4346.90</distance_moy_terre>
+      <satellites>13</satellites>
+      <température_moyenne valeur="C">-220</température_moyenne>
+      <masse valeur="kg">102</masse>
+      <période_de_révolution valeur="an">164.79</période_de_révolution>
+      <rotation_sur_son_axe>16 h 3 min</rotation_sur_son_axe>
+      <vitesse_autour_soleil valeur="km/s">5.43</vitesse_autour_soleil>
+      <attraction_gravitationnelle valeur="N/kg">11.27</attraction_gravitationnelle>
+      <masse_volumique valeur="kg/dm3">1.63</masse_volumique>
+      <volume valeur="1011km3">636.1374964</volume>
+    </caractéristiques>
+  </planète>
+
+</système_solaire>
